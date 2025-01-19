@@ -5,6 +5,6 @@ Welcome to my GitHub profile! I'm a software engineer with a keen interest in ct
 ## Technical Articles
 
 ### How does `create-react-app` works ?
-![Relative](/create-react-app.png)
+![Relative](/cra-1.png)
 
 Thanks for visiting my profile!
