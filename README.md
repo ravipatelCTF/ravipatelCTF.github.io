@@ -1,11 +1,11 @@
-# Hi there, I'm Ravi Patel 👋
+# Hi there, My username is @ravipatelctf 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in cybersecurity and competitive programming. Here you'll find a collection of my projects, contributions, and some fun coding challenges.
+Welcome to my GitHub profile! I'm a software engineer with a keen interest in ctfs and low level programming. Here you'll find a collection of my projects, contributions, and some technical articles.
 
 ## About Me
 
-- 💼 Currently working as a Security Engineer
-- 🎓 Graduated with a degree in Computer Science from [Your University]
+- 💼 Currently learning RUST.
+- 🎓 Graduated with a degree in Computer Application from Makhanlal Chaturvedi National University of Jounalism and Mass Communication.
 - 🏆 Active participant in CTF (Capture The Flag) competitions
 - 🌐 Visit my [personal website](https://ravipatelctf.github.io) for more details
 
