@@ -8,7 +8,7 @@ I'm a software developer, content creator, and creator of Tutor Directory. I'm o
 - [LinkedIn](https://www.linkedin.com/in/ravipatelctf/)
 - [Twitter](https://x.com/ravipatelctf)
 - [Email](https://ravipatelctf@gmail.com)
-- [Download My Resume]()
+- [Download My Resume](https://drive.google.com/file/d/1kE8j_fzy5JRjCvVAOHlsXKsJaRNRSUTQ/view?usp=drive_link)
 ---
 ### SIDE PROJECTS
 
